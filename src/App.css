@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    background: rgb(255, 255, 255);
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        
+}
+
+.app-wrapper {
+    background-color: rgb(186, 186, 186);
+    min-width: 450px;
+    min-height: 650px;
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 3px 6px 40px #000;
+    margin-bottom: 10px;
+}
+
+.container-body {
+    background: rgb(255, 255, 255);
+    width: 100%;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container-fluid {
+    background: rgb(73, 121, 217);
+}
+
+.btn-secondary {
+    background: rgb(213, 80, 9);
+}
+
+.card-header {
+    background: rgb(226, 226, 226);
+}
